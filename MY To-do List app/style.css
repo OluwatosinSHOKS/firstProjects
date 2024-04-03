@@ -1,0 +1,21 @@
+/* .bodyClass { */
+    /* background-color: wheat; */
+/* }; */
+
+.appName {
+    color: brown;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 3em;
+};
+
+.mainContent {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+.mainDivision {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
